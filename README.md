@@ -52,7 +52,7 @@ BULK ACTIONS:
 **Option 1: Install from source**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dockyard.git
+git clone https://github.com/andruwwweb/dockyard.git
 cd dockyard
 go build -o dockyard
 ./dockyard
