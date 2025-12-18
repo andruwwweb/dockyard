@@ -61,7 +61,7 @@ go build -o dockyard
 **Option 2: Install with go install**
 
 ```bash
-go install github.com/YOUR_USERNAME/dockyard@latest
+go install github.com/andruwwweb/dockyard@latest
 dockyard
 ```
 
