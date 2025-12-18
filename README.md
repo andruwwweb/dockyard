@@ -130,7 +130,7 @@ dockyard
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/dockyard.git
+git clone https://github.com/andruwwweb/dockyard.git
 cd dockyard
 
 # Download dependencies
